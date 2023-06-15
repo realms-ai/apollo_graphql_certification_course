@@ -1,0 +1,9 @@
+# Ignoring Node Modules
+/**/*/node_modules
+node_modules
+
+# Ignoring Log Files
+/**/*/*.log
+
+# Ignore src/generated folder for schema.ts
+/**/*/src/generated/
