@@ -7,3 +7,6 @@ node_modules
 
 # Ignore src/generated folder for schema.ts
 /**/*/src/generated/
+
+# Ignore .env Files
+**/*/.env
