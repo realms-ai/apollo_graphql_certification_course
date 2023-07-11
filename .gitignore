@@ -10,3 +10,10 @@ node_modules
 
 # Ignore .env Files
 **/*/.env
+
+
+**/*/.vscode
+**/*/.DS_Store
+**/*/.env
+# Ignore heavy router file
+**/*/router/router
